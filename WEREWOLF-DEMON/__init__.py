@@ -9,7 +9,7 @@ loop = asyncio.get_event_loop()
 botname = ""
 botusername = ""
 
-bot = TelegramClient('Hack', env.API_ID,
+bot = TelegramClient('WEREWOLF-DEMON', env.API_ID,
                      env.API_HASH).start(bot_token=env.BOT_TOKEN)
 
 
