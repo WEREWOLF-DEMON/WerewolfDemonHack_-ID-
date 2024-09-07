@@ -1,6 +1,6 @@
 import importlib
 
-from WEREWOLF-DEMON import bot, botname
+from WEREWOLF-DEMON import bot,botname
 from logger import LOGGER
 from WEREWOLF-DEMON.plugins import ALL_MODULES
 
