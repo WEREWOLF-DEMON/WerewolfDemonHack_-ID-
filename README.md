@@ -3,13 +3,13 @@
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
 <br>
-    <img src="https://img.shields.io/github/stars/THE-VIP-BOY-OP/VIP-HACK-BOT?style=for-the-badge" alt="Stars">
-    <img src="https://img.shields.io/github/forks/THE-VIP-BOY-OP/VIP-HACK-BOT?style=for-the-badge" alt="Forks">
-    <img src="https://img.shields.io/github/watchers/THE-VIP-BOY-OP/VIP-HACK-BOT?style=for-the-badge" alt="Watchers"> 
+    <img src="https://img.shields.io/github.com/WEREWOLF-DEMON/WerewolfDemonHack_-ID-?style=for-the-badge" alt="Stars">
+    <img src="https://img.shields.io/github/forks/WEREWOLF-DEMON/WerewolfDemonHack_-ID-?style=for-the-badge" alt="Forks">
+    <img src="https://img.shields.io/github/watchers/WEREWOLF-DEMON/WerewolfDemonHack_-ID-?style=for-the-badge" alt="Watchers"> 
 <br>
-    <img src="https://img.shields.io/github/repo-size/THE-VIP-BOY-OP/VIP-HACK-BOT?style=for-the-badge" alt="Repository Size">
-    <img src="https://img.shields.io/github/contributors/THE-VIP-BOY-OP/VIP-HACK-BOT?style=for-the-badge" alt="Contributors">
-    <img src="https://img.shields.io/github/issues/THE-VIP-BOY-OP/VIP-HACK-BOT?style=for-the-badge" alt="Issues">
+    <img src="https://img.shields.io/github/repo-size/WEREWOLF-DEMON/WerewolfDemonHack_-ID-?style=for-the-badge" alt="Repository Size">
+    <img src="https://img.shields.io/github/contributors/WEREWOLF-DEMON/WerewolfDemonHack_-ID-?style=for-the-badge" alt="Contributors">
+    <img src="https://img.shields.io/github/issues/WEREWOLF-DEMON/WerewolfDemonHack_-ID-?style=for-the-badge" alt="Issues">
 </p>
 
 ## Config Vars
@@ -31,7 +31,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/THE-VIP-BOY-OP/VIP-HACK-BOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="520" height="138.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/WEREWOLF-DEMON/WerewolfDemonHack_-ID-"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="520" height="138.45"/></a></p>
 
   
 
@@ -76,10 +76,10 @@ python3 -m Hack
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/TG_FRIENDSS"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/WerewolfDemonInfo"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/VIP_CREATORS"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/kaalCarder"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
